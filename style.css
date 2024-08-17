@@ -13,22 +13,6 @@
   --fs-large: 1.5rem;
 }
 
-.fc-light {
-  color: var(--fc-light) ;
-}
-
-.fs-small {
-  font-size: var(--fs-small);
-}
-
-.fs-medium {
-  font-size: var(--fs-medium);
-}
-
-.fs-large {
-  font-size: var(--fs-large);
-}
-
 @font-face {
   font-family: "Figtree";
   src: url("assets/fonts/Figtree-VariableFont_wght.ttf")
