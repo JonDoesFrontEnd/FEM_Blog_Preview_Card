@@ -95,7 +95,7 @@ body {
 }
 
 .card__avatar-name {
-  font-weight: var(--fw-bold);
+  font-weight: var(--fw-regular);
   font-size: var(--medium);
 }
 
